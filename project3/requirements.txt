@@ -1,0 +1,14 @@
+modin[dask]
+pandas
+numpy
+plotly
+IPython
+ipykernel
+nbformat
+kaleido
+scikit-learn>=1.0
+matplotlib
+seaborn
+fastparquet
+mlxtend
+black
