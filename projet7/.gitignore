@@ -1,2 +1,4 @@
 **/working
 **/.ipynb_checkpoints
+tensorflow-gpu-jupyter-docker
+lib/__pycache__
