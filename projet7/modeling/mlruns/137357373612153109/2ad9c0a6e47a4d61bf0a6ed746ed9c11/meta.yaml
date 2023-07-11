@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/137357373612153109/2ad9c0a6e47a4d61bf0a6ed746ed9c11/artifacts
+end_time: 1687946770794
+entry_point_name: ''
+experiment_id: '137357373612153109'
+lifecycle_stage: active
+run_id: 2ad9c0a6e47a4d61bf0a6ed746ed9c11
+run_name: valuable-bee-59
+run_uuid: 2ad9c0a6e47a4d61bf0a6ed746ed9c11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687847130105
+status: 3
+tags: []
+user_id: jupyter

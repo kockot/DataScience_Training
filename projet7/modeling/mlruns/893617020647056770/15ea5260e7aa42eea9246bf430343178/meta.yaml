@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/893617020647056770/15ea5260e7aa42eea9246bf430343178/artifacts
+end_time: 1688061152369
+entry_point_name: ''
+experiment_id: '893617020647056770'
+lifecycle_stage: active
+run_id: 15ea5260e7aa42eea9246bf430343178
+run_name: valuable-bee-59
+run_uuid: 15ea5260e7aa42eea9246bf430343178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688061152032
+status: 3
+tags: []
+user_id: unknown
