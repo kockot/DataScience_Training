@@ -1,0 +1,1 @@
+{"max_leaves": [20, 60], "max_depth": [2, 16], "l2_leaf_reg": [1e-06, 100.0], "model_shrink_rate": [0.1, 30], "bagging_temperature": [0.1, 100]}

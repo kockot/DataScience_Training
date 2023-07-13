@@ -1,0 +1,1 @@
+{'AUC': 'roc_auc', 'custom_score': make_scorer(custom_score)}

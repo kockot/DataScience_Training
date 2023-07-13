@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/bee49cebe4f04fea8b14904daa64e5da/artifacts
+end_time: 1689180687774
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: active
+run_id: bee49cebe4f04fea8b14904daa64e5da
+run_name: thoughtful-wren-168
+run_uuid: bee49cebe4f04fea8b14904daa64e5da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689179248519
+status: 3
+tags: []
+user_id: jupyter

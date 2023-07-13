@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/c861960b75d74eeb985e3a4e0ba6ca1c/artifacts
+end_time: 1689151215022
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: active
+run_id: c861960b75d74eeb985e3a4e0ba6ca1c
+run_name: funny-foal-592
+run_uuid: c861960b75d74eeb985e3a4e0ba6ca1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689150548785
+status: 3
+tags: []
+user_id: jupyter

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/947500517230426829/cc72be5d9355429ebdc734ff0aa3bec6/artifacts
+end_time: 1689098927974
+entry_point_name: ''
+experiment_id: '947500517230426829'
+lifecycle_stage: active
+run_id: cc72be5d9355429ebdc734ff0aa3bec6
+run_name: skittish-robin-556
+run_uuid: cc72be5d9355429ebdc734ff0aa3bec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689096801106
+status: 4
+tags: []
+user_id: jupyter

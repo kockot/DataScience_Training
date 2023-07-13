@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/725733082712343083/60e5ab86cf2747c48649f0128c3c0cc5/artifacts
+deleted_time: 1689187531688
+end_time: 1689187367969
+entry_point_name: ''
+experiment_id: '725733082712343083'
+lifecycle_stage: deleted
+run_id: 60e5ab86cf2747c48649f0128c3c0cc5
+run_name: 2023-07-12 18:42:38 - GridSearchCV histgradientboost with 20603 rows
+run_uuid: 60e5ab86cf2747c48649f0128c3c0cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689187358102
+status: 4
+tags: []
+user_id: jupyter

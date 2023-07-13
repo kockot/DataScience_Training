@@ -1,0 +1,4 @@
+HistGradientBoostingClassifier(class_weight='balanced',
+                               l2_regularization=0.7447468982746397,
+                               max_leaf_nodes=21.950229784400406,
+                               random_state=6)

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/62ba85a10fdf4e41926e9bad4c18dec4/artifacts
+end_time: 1689170976093
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: active
+run_id: 62ba85a10fdf4e41926e9bad4c18dec4
+run_name: victorious-bat-907
+run_uuid: 62ba85a10fdf4e41926e9bad4c18dec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689170887492
+status: 3
+tags: []
+user_id: jupyter

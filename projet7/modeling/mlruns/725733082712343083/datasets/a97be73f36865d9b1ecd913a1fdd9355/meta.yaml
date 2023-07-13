@@ -1,0 +1,9 @@
+digest: b2baace1
+name: dataset
+profile: '{"features_shape": [4120, 512], "features_size": 2109440, "features_nbytes":
+  16875520}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"object\", \"shape\": [-1, 512]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "jupyter", "mlflow.source.name": "/home/jupyter/.local/lib/python3.8/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
