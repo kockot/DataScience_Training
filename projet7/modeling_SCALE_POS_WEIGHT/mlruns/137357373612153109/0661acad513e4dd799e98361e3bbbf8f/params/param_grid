@@ -1,0 +1,1 @@
+{'bagging_fraction': [0.5055661157449294], 'feature_fraction': [0.18067907925566848], 'max_depth': [10], 'min_child_weight': [47.42369264601568], 'min_split_gain': [0.06974351473605518], 'num_leaves': [24], 'reg_alpha': [0.24903451277692473], 'reg_lambda': [0.9353958364437036]}

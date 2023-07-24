@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/c788b78c94264d119e10f62100eec3c5/artifacts
+deleted_time: 1689357804476
+end_time: 1689183991648
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: deleted
+run_id: c788b78c94264d119e10f62100eec3c5
+run_name: rambunctious-cub-527
+run_uuid: c788b78c94264d119e10f62100eec3c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689180690500
+status: 3
+tags: []
+user_id: jupyter

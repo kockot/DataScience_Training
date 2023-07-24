@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/5adbdf18003c4bca8d22ae4db6f614c9/artifacts
+deleted_time: 1689170657587
+end_time: 1689170313217
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: deleted
+run_id: 5adbdf18003c4bca8d22ae4db6f614c9
+run_name: 2023-07-12 13:58:27 - Bayesian Optimisation catboost with 20603 rows
+run_uuid: 5adbdf18003c4bca8d22ae4db6f614c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689170307530
+status: 4
+tags: []
+user_id: jupyter

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/c209d07449db43568f872e8e17d5daae/artifacts
+deleted_time: 1689150255673
+end_time: 1689149909029
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: deleted
+run_id: c209d07449db43568f872e8e17d5daae
+run_name: 2023-07-12 08:18:17 - Bayesian Optimisation xgb with 20603 rows
+run_uuid: c209d07449db43568f872e8e17d5daae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689149897721
+status: 4
+tags: []
+user_id: jupyter

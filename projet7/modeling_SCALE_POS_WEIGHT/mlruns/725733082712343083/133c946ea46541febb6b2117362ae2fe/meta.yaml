@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/725733082712343083/133c946ea46541febb6b2117362ae2fe/artifacts
+end_time: 1689188946535
+entry_point_name: ''
+experiment_id: '725733082712343083'
+lifecycle_stage: active
+run_id: 133c946ea46541febb6b2117362ae2fe
+run_name: abrasive-lark-70
+run_uuid: 133c946ea46541febb6b2117362ae2fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689188424202
+status: 3
+tags: []
+user_id: jupyter

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/448cd47af42a4ea1a522191b1a71bab5/artifacts
+deleted_time: 1689357804467
+end_time: 1689171185445
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: deleted
+run_id: 448cd47af42a4ea1a522191b1a71bab5
+run_name: gifted-stoat-617
+run_uuid: 448cd47af42a4ea1a522191b1a71bab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689170976401
+status: 3
+tags: []
+user_id: jupyter

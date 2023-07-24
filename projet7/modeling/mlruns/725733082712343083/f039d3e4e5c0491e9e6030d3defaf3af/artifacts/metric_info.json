@@ -1,7 +1,0 @@
-{
-  "roc_auc_score-2_x_test_fold-2": "roc_auc_score(y_true=preds, y_score=y_test_fold)",
-  "roc_auc_score-3_x_test_fold-3": "roc_auc_score(y_true=preds, y_score=y_test_fold)",
-  "roc_auc_score-4_x_test_fold-4": "roc_auc_score(y_true=preds, y_score=y_test_fold)",
-  "roc_auc_score-5_x_test_fold-5": "roc_auc_score(y_true=preds, y_score=y_test_fold)",
-  "roc_auc_score_x_test_fold": "roc_auc_score(y_true=preds, y_score=y_test_fold)"
-}

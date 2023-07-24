@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/213770867370212668/85f1fbdd0fa5470c89e383653df0d3d3/artifacts
+deleted_time: 1689186324555
+end_time: 1689184070821
+entry_point_name: ''
+experiment_id: '213770867370212668'
+lifecycle_stage: deleted
+run_id: 85f1fbdd0fa5470c89e383653df0d3d3
+run_name: 2023-07-12 17:47:40 - Bayesian Optimisation randomforest with 20603 rows
+run_uuid: 85f1fbdd0fa5470c89e383653df0d3d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689184060918
+status: 4
+tags: []
+user_id: jupyter

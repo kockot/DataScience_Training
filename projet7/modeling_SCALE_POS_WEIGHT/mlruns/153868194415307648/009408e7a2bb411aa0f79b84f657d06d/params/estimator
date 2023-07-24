@@ -1,0 +1,7 @@
+LGBMClassifier(application='binary', bagging_fraction=0.8545658753905836,
+               feature_fraction=0.5327494834420226, learning_rate=0.05,
+               max_depth=6, metric='auc', min_child_weight=48.09412829613508,
+               min_split_gain=0.040922373574757066, n_estimators=3000,
+               num_leaves=27, random_seed=6, reg_alpha=0.7165588533310197,
+               reg_lambda=99.42074384798632,
+               scale_pos_weight=11.331338281062964, subsample=0.75, verbose=-1)

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/ef05457b9a024a149f0957ab8352717f/artifacts
+end_time: 1689150548774
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: active
+run_id: ef05457b9a024a149f0957ab8352717f
+run_name: 2023-07-12 08:26:30 - GridSearchCV xgb with 20603 rows
+run_uuid: ef05457b9a024a149f0957ab8352717f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689150390928
+status: 3
+tags: []
+user_id: jupyter

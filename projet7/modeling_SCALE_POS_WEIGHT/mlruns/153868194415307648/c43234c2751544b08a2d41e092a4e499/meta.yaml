@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/c43234c2751544b08a2d41e092a4e499/artifacts
+deleted_time: 1689357804472
+end_time: 1689176174117
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: deleted
+run_id: c43234c2751544b08a2d41e092a4e499
+run_name: amazing-moose-371
+run_uuid: c43234c2751544b08a2d41e092a4e499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689172323724
+status: 3
+tags: []
+user_id: jupyter

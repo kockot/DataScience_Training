@@ -1,3 +1,0 @@
-HistGradientBoostingClassifier(class_weight='balanced',
-                               l2_regularization=0.7447468982746397,
-                               max_leaf_nodes=22, random_state=6)

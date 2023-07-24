@@ -1,0 +1,1 @@
+{'max_depth': [50], 'max_leaves': [20], 'min_child_weight': [156.8015478279023], 'reg_alpha': [1e-20], 'reg_lambda': [1e-06]}

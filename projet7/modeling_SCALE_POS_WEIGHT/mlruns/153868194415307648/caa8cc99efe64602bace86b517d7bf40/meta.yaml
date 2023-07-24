@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jupyter/notebooks/modeling/mlruns/153868194415307648/caa8cc99efe64602bace86b517d7bf40/artifacts
+deleted_time: 1689357804471
+end_time: 1689150548475
+entry_point_name: ''
+experiment_id: '153868194415307648'
+lifecycle_stage: deleted
+run_id: caa8cc99efe64602bace86b517d7bf40
+run_name: luxuriant-crane-481
+run_uuid: caa8cc99efe64602bace86b517d7bf40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689150390928
+status: 3
+tags: []
+user_id: jupyter

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687860489106
+current_stage: Production
+description: ''
+last_updated_timestamp: 1687860614775
+name: credit_check_xgb
+run_id: 2ad9c0a6e47a4d61bf0a6ed746ed9c11
+run_link: ''
+source: file:///home/jupyter/notebooks/modeling/mlruns/137357373612153109/2ad9c0a6e47a4d61bf0a6ed746ed9c11/artifacts/xgb_1
+status: READY
+status_message: null
+user_id: null
+version: 1
