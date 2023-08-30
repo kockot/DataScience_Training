@@ -9,7 +9,7 @@ cd s3fs-fuse
 ./configure --prefix=/usr --with-openssl
 make
 sudo make install
-echo "AKIAYQ42R3GTM336ODN4:o59H7ltG8nWEqQUB/T0OpFTh1nw1mpJwQbZYRrwG" | sudo tee /etc/passwd-s3fs
+echo "xxxx:xxxxxxxxxxxxxx" | sudo tee /etc/passwd-s3fs
 sudo chmod 640 /etc/passwd-s3fs
 
 sudo mkdir /kockot-bucket
